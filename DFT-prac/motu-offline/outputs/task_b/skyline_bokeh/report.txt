@@ -1,0 +1,8 @@
+Image path: images/skyline512.png
+Image size: 512x512
+Kernel name: bokeh
+Kernel size: 19x19
+Engine: fft
+Linear convolution size: 530x530
+Transform size used: 1024x1024
+Verification result (max |spectral - direct|): 4.551914e-15

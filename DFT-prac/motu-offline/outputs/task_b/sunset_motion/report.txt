@@ -1,0 +1,8 @@
+Image path: images/sunset512.png
+Image size: 512x512
+Kernel name: motion
+Kernel size: 41x41
+Engine: fft
+Linear convolution size: 552x552
+Transform size used: 1024x1024
+Verification result (max |spectral - direct|): 8.326673e-16
